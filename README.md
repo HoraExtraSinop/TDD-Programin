@@ -6,7 +6,7 @@ Então chegamos a conclusão. Faremos um grande projeto para cobrir com teste e 
 
 ## Features
 
-- [ ] Decidir qual o projeto
+- [ ] [Decidir qual o projeto](https://github.com/HoraExtraSinop/TDD-Programin/issues/3#issuecomment-135585547)
 - [ ] Decidir qual Linguagem usar
  
- Para fazer sugestões basta abrir uma issue
+ Para fazer sugestões basta verificar se não existe uma issue, caso não tenha sinta se livre para começar uma nova discução
