@@ -4,7 +4,7 @@ Em uma conversa em grupo chegamos a uma pergunta, como ficaria um projeto grande
 
 Então chegamos a conclusão. Faremos um grande projeto para cobrir com teste e para aprender como usar TDD.
 
-## Projeto
+## Features
 
 - [ ] Decidir qual o projeto
 - [ ] Decidir qual Linguagem usar
